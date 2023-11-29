@@ -1,2 +1,2 @@
 # Hello-word
-aprendiendo a crear repo
+aprendiendo a crear repo y trabajar con ramas desde MDN
